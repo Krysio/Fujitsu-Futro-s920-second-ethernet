@@ -1,4 +1,4 @@
-# Fujitsu Futro s920 second ethernet connector
+# Fujitsu Futro s920, the second ethernet connector
 
 ![Fujitsu Futro s920, the second ethernet connector](./result.jpg?raw=true "Fujitsu Futro s920, the second ethernet connector")
 
